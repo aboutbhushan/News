@@ -1,8 +1,8 @@
 {
   "name": "News",
   "short_name": "News",
-  "display": "standalone",
-  "start_url": ".",
+  "display": "fullscreen",
+  "start_url": "https://aboutbhushan.github.io/News/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
